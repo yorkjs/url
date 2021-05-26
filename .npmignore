@@ -1,0 +1,14 @@
+lib
+test
+example
+docs
+build
+.github
+.DS_Store
+node_modules
+package-lock.json
+yarn.lock
+tsconfig.json
+tsconfig.tsbuildinfo
+src
+rollup.config.js
