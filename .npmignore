@@ -11,4 +11,5 @@ yarn.lock
 tsconfig.json
 tsconfig.tsbuildinfo
 src
+jest.config.js
 rollup.config.js
